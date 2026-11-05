@@ -11,4 +11,4 @@ Emails load them from:
 
 The LeadAIO logos are in `marketing-assets/brand/`.
 
-The files with the older names (`chatgpt.png`, `leadaio-logo.png` and so on) are kept so emails already sent still show their images. Don't rename or delete any file here.
+Don't rename, move or delete these files: sent emails load them by their exact names.
