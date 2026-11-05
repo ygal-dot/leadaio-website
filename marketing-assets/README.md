@@ -9,6 +9,6 @@ Emails load these from:
 |---|---|
 | `brand/logo-leadaio-color-560w.png` | Standard logo, light backgrounds |
 | `brand/logo-leadaio-white-360w.png` | Logo for dark backgrounds |
-| `brand/icon-chatgpt-96w.png`, `icon-claude-96w.png`, `icon-grok-96w.png`, `icon-perplexity-96w.png`, `icon-gemini-96w.png` | AI platform icons |
+| `brand/icon-*-96w.png` | Older location of the AI platform icons, kept so sent emails keep working. Use `email-assets/` instead. |
 
 Don't rename, move or delete these files: sent emails load them by their exact names.
