@@ -10,6 +10,7 @@ LeadAIO brand files only. The AI platform icons are in `email-assets/`.
 | File | Use |
 |---|---|
 | `brand/logo-leadaio-color-560w.png` | Standard logo, light backgrounds |
-| `brand/logo-leadaio-white-360w.png` | Logo for dark backgrounds |
+| `brand/logo-leadaio-white-560w.png` | Logo for dark backgrounds (email headers) |
+| `brand/logo-leadaio-white-360w.png` | Logo for dark backgrounds, smaller (email footers) |
 
 Don't rename, move or delete these files: sent emails load them by their exact names.
